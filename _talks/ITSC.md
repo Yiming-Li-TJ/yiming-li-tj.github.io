@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/2025-ITSC
 venue: "2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)"
-date: 2025-09-21
+date: 2025-11-22
 location: "Gold Coast, Australia"
 ---
 
