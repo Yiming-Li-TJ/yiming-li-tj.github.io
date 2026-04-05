@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/TRB
 excerpt: 'We propose a CycleGAN-based domain adaptation approach for pavement sealed crack segmentation, achieving a 6.18% improvement in IoU coefficient over source domain images and enabling effective cross-region pavement distress detection without re-annotation or retraining.  '
-date: 2015-01-09
+date: 2025-01-09
 venue: 'January 9'
 citation: 'Li, Y., Chen, J., Lang, H., &amp; Qian, J. (2025). &quot;Intelligent Pixel-Level Segmentation of Pavement Sealed Cracks Using CycleGAN-Based Domain Adaptation.&quot; <i>Transportation Research Board 104th Annual Meeting</i>. Washington, D.C.'
 ---
