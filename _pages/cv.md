@@ -16,7 +16,7 @@ Education
 * Ph.D in Transportation Engineering, Tongji University, 2030 (expected)
 * B.S. in Transportation Engineering, Tongji University, 2024
 
-Work experience
+Research
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -28,19 +28,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
