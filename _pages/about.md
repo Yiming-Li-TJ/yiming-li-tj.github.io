@@ -1,4 +1,3 @@
-<img width="2549" height="1352" alt="image" src="https://github.com/user-attachments/assets/12f657ce-32fb-4d41-9340-6145c658a721" />---
 permalink: /
 title: "Yiming Li"
 author_profile: true
