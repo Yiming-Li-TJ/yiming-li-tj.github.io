@@ -18,15 +18,9 @@ Education
 
 Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Logistics Network Optimization: Stochastic modeling and dynamic programming for linehaul service networks and freight flow allocation.
+* Reinforcement Learning: Online exploration-exploitation algorithms with theoretical regret bounds for stochastic routing in mixed-autonomy traffic networks.
+* Embodied AI: Multi-agent model-based offline reinforcement learning for coordinated locomotion in continuous physical environments.
 
 
 Publications
