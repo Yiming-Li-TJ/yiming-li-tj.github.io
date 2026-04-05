@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/CICTP
 excerpt: 'We propose a Fuzzy C-Means Clustering-based methodology using electronic police data to accurately identify balanced and overall congestion states at urban intersections, validated through a case study demonstrating strong alignment with real-world conditions.'
 date: 2025-07-22
+venue: 'July 22'
 paperurl: 'https://www.engineeringvillage.com/app/doc/?docid=inspec_2a2dbe419abdae3dd2M60f010178165218'
 citation: 'Li, Y., Bai, Y., &amp; Xiao, B. (2025). &quot;Intersection Congestion Identification Method Based on Fuzzy C-Means Clustering.&quot; <i>CICTP 2025: Transportation, Artificial Intelligence, and Energy</i>. 2073-2084.'
 ---
